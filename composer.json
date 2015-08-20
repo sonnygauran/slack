@@ -11,7 +11,7 @@
         {
             "name": "sonnygauran",
             "email": "me@sonnygauran.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.4.0",
